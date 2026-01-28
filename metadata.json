@@ -1,0 +1,7 @@
+{
+  "name": "Mahran - Teach Me German",
+  "description": "A sophisticated German language learning platform featuring AI-powered tutoring, interactive flashcards with TTS, pronunciation feedback, and comprehensive grammar guides.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
